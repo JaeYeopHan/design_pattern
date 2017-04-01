@@ -1,0 +1,7 @@
+# Intelli J
+.idea
+*.iml
+
+# java
+out
+
